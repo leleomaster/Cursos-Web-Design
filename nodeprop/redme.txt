@@ -1,8 +1,0 @@
-
-Tipos de layouts: Fixo e Fluído. 
-
-1 - Fixo: antigamente fazia layouts escrevendo os tamanhos com PIXELS(px)
-
-2 - Fluído: Hoje escrevemos com porcentagens(%) para ajustar o tamanho da tela atual.
-
-
